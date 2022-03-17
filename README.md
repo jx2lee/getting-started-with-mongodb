@@ -4,3 +4,5 @@
 - `go hard`!
 
 ## _index_
+- [introduction](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction)
+    - [Introduction to MongoDB](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/introduction-to-mongodb.md)
