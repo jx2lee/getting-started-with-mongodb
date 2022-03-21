@@ -5,5 +5,6 @@
 
 ## _index_
 - [introduction](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction)
-    - [Introduction to MongoDB](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/introduction-to-mongodb.md)
-    - [Getting Started](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/getting-started.md)
+  - [Introduction to MongoDB](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/introduction-to-mongodb.md)
+  - [Getting Started](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/getting-started.md)
+  - [Databases and Collections](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/databases-and-collections.md)
