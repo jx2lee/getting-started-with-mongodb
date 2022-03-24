@@ -1,5 +1,6 @@
 # _Getting Started With Mongodb_
-- v3.4 manual
+- v3.4
+  - v4.4
 - 번역이 어려운 단어의 경우 영어와 같이 사용
 - `go hard`!
 
@@ -8,3 +9,4 @@
   - [Introduction to MongoDB](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/introduction-to-mongodb.md)
   - [Getting Started](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/getting-started.md)
   - [Databases and Collections](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/databases-and-collections.md)
+    - [Views](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/views.md)
