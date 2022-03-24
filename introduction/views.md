@@ -109,3 +109,6 @@ view 제거는 db.collection.drop() 메소드를 사용한다. view 수정은 �
 | collMod                     |                                                                                                                                                                                                               |
 |                             | db.getCollection()<br/>db.getCollectionInfos()<br/>db.getCollectionNames()                                                                                                                                    |
 | find<br/>distinct<br/>count | db.collection.aggregate()<br>db.collection.find()<br>db.collection.findOne()<br>db.collection.countDocuments()<br>db.collection.estimatedDocumentCount()<br>db.collection.count()<br>db.collection.distinct() |
+
+---
+[Index 로 이동](https://github.com/jx2lee/getting-started-with-mongodb#index)

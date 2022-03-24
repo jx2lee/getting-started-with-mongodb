@@ -65,3 +65,6 @@ db.inventory.find( { tags: ["red", "blank"] } )
 ```
 
 자세한 쿼리 예제는 CRUD 섹션의 쿼리 document 를 참조한다. document 를 업데이트하거나 삭제하려면 document 업데이트 및 document 삭제를 참조한다.
+
+---
+[Index 로 이동](https://github.com/jx2lee/getting-started-with-mongodb#index)

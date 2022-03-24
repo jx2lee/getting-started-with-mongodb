@@ -58,3 +58,6 @@ MongoDB 3.2 부터 업데이트 및 삽입 작업 중에 collection 에 대한 D
 
 새 field 추가, 기존 field 제거, 값을 새 유형으로 변경 같이 collection 의 document  구조를 변경하려면
 **Document 를 새 구조로 업데이트한다.**
+
+---
+[Index 로 이동](https://github.com/jx2lee/getting-started-with-mongodb#index)

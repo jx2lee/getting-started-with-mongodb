@@ -53,3 +53,6 @@ MongoDB는 핵심 기능의 일부로 수평 확장 (Horizontal Scalability) 을
 - [MMAPv1 Storage Engine](https://docs.mongodb.com/v3.4/core/mmapv1/)
 
 또한, 타사가 MongoDB 용 스토리지 엔진을 개발할 수 있도록 하는 플러그형 스토리지 엔진 API 를 제공한다.
+
+---
+[Index 로 이동](https://github.com/jx2lee/getting-started-with-mongodb#index)
