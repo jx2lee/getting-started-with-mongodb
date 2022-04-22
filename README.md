@@ -1,9 +1,10 @@
-# _Getting Started With Mongodb_
-- 개인 공부를 위한 공간입니다. _(just for personal study)_
-- v3.4 으로 작성하다 v4.4 으로 변경하였습니다. _(created it in v3.4 and changed it to v4.4)_
-- 번역이 어려운 경우 원어를 같이 사용하였습니다. _(If the translation is difficult, the origin is used together)_
-- 만약 내용이 틀렸거나 보충이 필요하다면, 자유롭게 PR 올려주세요. _(If content is wrong or additional explanation required, please PR it)_
-- mongodb 에 사용하는 용어는 아래 링크를 참고하면 좋다. _(For terms used in mongodb, please refer to the link below)_
+# _Getting Started With Mongodb_ 🍃🍂
+[![mongodb](image/logo.png)](https://www.mongodb.com/)
+- 개인 공부를 위한 공간이에요. _(just for personal study)_
+- v3.4 으로 작성하다 v4.4 으로 변경했어요. _(created it in v3.4 and changed it to v4.4)_
+- 번역이 어려운 경우 원어를 같이 사용했어요. _(If the translation is difficult, the origin is used together)_
+- 만약 내용이 틀렸거나 보충이 필요하다면 자유롭게 PR 올려주세요. _(If content is wrong or additional explanation required, please PR it)_
+- mongodb 에 사용하는 용어는 아래 링크를 참고하면 좋아요. _(For terms used in mongodb, please refer to the link below)_
   - [https://www.mongodb.com/docs/v4.4/reference/glossary](https://www.mongodb.com/docs/v4.4/reference/glossary)
 
 ## _index_
