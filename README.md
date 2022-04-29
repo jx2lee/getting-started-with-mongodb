@@ -15,6 +15,10 @@
     - [Views](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/databases-and-collections/views.md)
     - [Capped Collections](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/databases-and-collections/capped-collections.md)
   - [Documents](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/documents.md)
+- [Installation - 작성중]()
+- [The mongo Shell - 작성중]()
+- [MongoDB CRUD Operations](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/mongodb-crud-operations/mongodb-crud-operations.md)
+- [Aggregation - 작성중]()
 
 ---
 _made by jaejun.lee_
