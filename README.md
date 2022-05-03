@@ -18,6 +18,7 @@
 - [Installation - 작성중]()
 - [The mongo Shell - 작성중]()
 - [MongoDB CRUD Operations](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/mongodb-crud-operations/mongodb-crud-operations.md)
+  - [Insert Documents](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/mongodb-crud-operations/insert-documents.md)
 - [Aggregation - 작성중]()
 
 ---
