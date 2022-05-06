@@ -1,5 +1,4 @@
-# _Getting Started With Mongodb_ 🍃🍂
-[![mongodb](image/logo.png)](https://www.mongodb.com/)
+# _![logo](./image/leaf.svg) Getting Started With Mongodb_ 
 - 개인 공부를 위한 공간이에요. _(just for personal study)_
 - v3.4 으로 작성하다 v4.4 으로 변경했어요. _(created it in v3.4 and changed it to v4.4)_
 - 번역이 어려운 경우 원어를 같이 사용했어요. _(If the translation is difficult, the origin is used together)_
@@ -20,6 +19,7 @@
 - [MongoDB CRUD Operations](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/mongodb-crud-operations/mongodb-crud-operations.md)
   - [Insert Documents](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/mongodb-crud-operations/insert-documents.md)
 - [Aggregation - 작성중]()
+- [Replication - 작성중](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/replication/replication.md)
 
 ---
 _made by jaejun.lee_
