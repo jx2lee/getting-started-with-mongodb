@@ -7,6 +7,7 @@
   - [https://www.mongodb.com/docs/v4.4/reference/glossary](https://www.mongodb.com/docs/v4.4/reference/glossary)
 
 ## _index_
+- [prerequisites](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/prerequisites/install-mongodb-with-docker.md)
 - [introduction](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction)
   - [Introduction to MongoDB](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/introduction-to-mongodb.md)
   - [Getting Started](https://github.com/jx2lee/getting-started-with-mongodb/tree/main/introduction/getting-started.md)
